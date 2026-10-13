@@ -1,7 +1,8 @@
 # KittyDOT
 
-KittyDOT is my personal Arch/EndeavourOS desktop build for Hyprland and Noctalia.
-This is mostly for @IsJenkz on Twitch since I wanted hin to have my dotfiles, It is recommended to use EndeavourOS, I don't know how it works on Arch because I never tested it, but I don't see a reason it shouldn't work.
+KittyDOT is my personal Arch/EndeavourOS desktop build for Hyprland and Noctalia. I originally put this here for [@IsJenkz](https://twitch.tv/IsJenkz) on Twitch so he could have my dotfiles.
+
+Recommended: EndeavourOS. I haven't tested it on plain Arch myself, but I don't see any reason it shouldn't work.
 
 ## What makes it mine
 
@@ -14,6 +15,7 @@ This is mostly for @IsJenkz on Twitch since I wanted hin to have my dotfiles, It
 ## Quick Start
 
 On a fresh Arch or EndeavourOS install:
+
 
 ```bash
 git clone https://github.com/akayleex3/KittyDOT.git
