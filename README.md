@@ -16,7 +16,7 @@ This is mostly for @IsJenkz on Twitch since I wanted hin to have my dotfiles, It
 On a fresh Arch or EndeavourOS install:
 
 ```bash
-git clone https://github.com/AKaylee_x3/KittyDOT.git
+git clone https://github.com/akayleex3/KittyDOT.git
 cd KittyDOT
 ./setup install
 ```
